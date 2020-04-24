@@ -25,11 +25,11 @@
 
 ## 相关代码
 
-### [大连理工大学机构知识库爬虫](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_Spider)
+### [大连理工大学机构知识库爬虫](https://github.com/ffismine/AcademicRecommendation_dlut/tree/master/AcademicRecommendation_Spider)
 
-### [基于协同过滤](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_MR)
-### [基于链路预测](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_GE)
-### [基于表示学习的协同过滤](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_MRGE)
+### [基于协同过滤](https://github.com/ffismine/AcademicRecommendation_dlut/tree/master/AcademicRecommendation_MR)
+### [基于链路预测](https://github.com/ffismine/AcademicRecommendation_dlut/tree/master/AcademicRecommendation_GE)
+### [基于表示学习的协同过滤](https://github.com/ffismine/AcademicRecommendation_dlut/tree/master/AcademicRecommendation_MRGE)
 
 
 
