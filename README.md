@@ -25,15 +25,15 @@
 
 ## 相关代码
 
-### [大连理工大学机构知识库爬虫](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_Spider/readme.md)
+### [大连理工大学机构知识库爬虫](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_Spider)
 
-### [基于协同过滤](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_MR/readme.md)
-### [基于链路预测](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_GE/readme.md)
-### [基于表示学习的协同过滤](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_MRGE/readme.md)
+### [基于协同过滤](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_MR)
+### [基于链路预测](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_GE)
+### [基于表示学习的协同过滤](https://github.com/ffismine/AcademicRecommendation_dlutir.dlut.edu.cn/tree/master/AcademicRecommendation_MRGE)
 
 
 
-#### 作者信息
+## 作者信息
 - [谢张](https://github.com/ffismine)
 
 - [徐长琦](https://github.com/xyclxcq)
