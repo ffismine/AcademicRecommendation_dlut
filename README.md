@@ -26,14 +26,34 @@
 ## 相关代码
 
 ### [大连理工大学机构知识库爬虫](https://github.com/ffismine/AcademicRecommendation_dlut/tree/master/AcademicRecommendation_Spider)
-#### 数据输入
-- **user_item_score.txt**：来源于AcademicRecommendation_Spider
+
 
 ### [基于协同过滤](https://github.com/ffismine/AcademicRecommendation_dlut/tree/master/AcademicRecommendation_MR)
+#### 数据输入
+- **1.user_item_score.txt**：来源于AcademicRecommendation_Spider
+- **2.调用MapReduce**
+#### 数据输出
+- **output/MR_output**：基于AcademicRecommendation_MR
+
 ### [基于链路预测](https://github.com/ffismine/AcademicRecommendation_dlut/tree/master/AcademicRecommendation_GE)
+#### 数据输入
+- **1.user_item_score.txt**：来源于AcademicRecommendation_Spider
+- **2.调用node2vec**：不包含node2vec输出embedding
+#### 数据输出
+- **output/GE_output**：基于Inner Product
+
 ### [基于表示学习的协同过滤](https://github.com/ffismine/AcademicRecommendation_dlut/tree/master/AcademicRecommendation_MRGE)
+#### 数据输入
+- **1.user_item_score.txt**：来源于AcademicRecommendation_Spider
+- **2.调用node2vec**：不包含node2vec输出embedding
+- **3.调用MapReduce**
+
+#### 数据输出(调用AcademicRecommendation_MR时需注意进行对应修改)
+- **output/MRGE_output**：基于调整后的AcademicRecommendation_MR
 
 
+### [基于图注意力网络](https://github.com/ffismine/AcademicRecommendation_dlut/tree/master/AcademicRecommendation_GAN)
+#### 待完成
 
 ## 作者信息
 ### [谢张](https://github.com/ffismine)
