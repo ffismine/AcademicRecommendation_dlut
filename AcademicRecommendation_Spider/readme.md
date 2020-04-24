@@ -7,7 +7,7 @@
 
 ## 环境搭建
 
-* **Python 3.7.4 64-bit)**
+* **Python 3.7.4 64-bit**
 * **requests**
 * **lxml.etree**
 * **json**
